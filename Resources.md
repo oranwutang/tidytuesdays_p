@@ -83,7 +83,7 @@ https://github.com/eddelbuettel/tint
 The best tool for creating formatted tables in markdown, LaTex and html formats:    
 https://github.com/isubirana/compareGroups
 
-## Miscelaneous  
+## Miscellaneous  
 
 ### Tabulizer
 Extract tables from pdf files:  
