@@ -6,6 +6,10 @@
 Make plots that are ready for publishing in scientific journals:  
 https://github.com/kassambara/ggpubr
 
+### jskm
+Nice Kaplan-Meiwr plots (and analysis)  
+https://cran.r-project.org/web/packages/jskm/index.html
+
 ### r2D3
 Make charts and graphics with D3 in R. Just go beyond ggplot!  
 https://rstudio.github.io/r2d3/index.html
@@ -75,6 +79,10 @@ https://github.com/crsh/papaja
 Create documents following Tufte's style:  
 https://github.com/eddelbuettel/tint
 
+### CompareGroups
+The best tool for creating formatted tables in markdown, LaTex and html formats:    
+https://github.com/isubirana/compareGroups
+
 ## Miscelaneous  
 
 ### Tabulizer
@@ -87,7 +95,15 @@ https://github.com/aedobbyn/multicolor
 
 ### tsbox  
 Probably the easiest time series analysis package:  
-https://www.tsbox.help/
+https://www.tsbox.help/ 
+
+### tsfeatures  
+Extract features from time series data
+https://cran.r-project.org/web/packages/tsfeatures/vignettes/tsfeatures.html
+
+### interactions
+Tools for analysis of interactions for regression models  
+https://github.com/jacob-long/interactions
 
 ### Flexdashboard
 The easiest way to create interactive dashboards or reports with R.  
