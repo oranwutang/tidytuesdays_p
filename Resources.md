@@ -85,6 +85,9 @@ https://github.com/isubirana/compareGroups
 
 ## Miscellaneous  
 
+### A webinar about how to program with R (in spanish)
+https://resources.rstudio.com/webinars/programacio-n-con-r-edgar-ruiz
+
 ### Tabulizer
 Extract tables from pdf files:  
 https://github.com/ropensci/tabulizer
