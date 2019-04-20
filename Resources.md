@@ -21,6 +21,10 @@ https://www.r-bloggers.com/accessing-openstreetmap-data-with-r/
 ### How To Create GPS Heatmaps In ggplot:  
 https://www.sportscidata.com/2019/03/26/how-to-create-gps-heatmaps-in-ggplot/
 
+### Nominatim:
+Search OSM data by name and address and generate synthetic addresses of OpenStreetMaps points (reverse geocoding)  
+https://github.com/hrbrmstr/nominatim
+
 ### Color Oracle:
 Not an R package, a program for checking if your visualization if colorblind-friendly:  
 https://colororacle.org/
@@ -29,7 +33,11 @@ https://colororacle.org/
 
 ### Datapasta:  
 Copy and paste data to and from R without dying in the attempt. It is surely a must!
-https://github.com/MilesMcBain/datapasta
+https://github.com/MilesMcBain/datapasta  
+
+### RegExplain  
+A great tool for work (and understand) regular expressions:  
+https://www.garrickadenbuie.com/project/regexplain/
 
 ## Free datasets:
 
@@ -41,6 +49,9 @@ http://ghdx.healthdata.org/gbd-results-tool
 
 The Natural History Museum Specimen Collection:  
 https://data.nhm.ac.uk/
+
+Data from elections in Spain:  
+https://github.com/hmeleiro/elecciones
 
 ## Learning/teaching resources:
 ### RStudio primers:  
@@ -65,4 +76,23 @@ https://www.tsbox.help/
 The easiest way to create interactive dashboards or reports with R.  
 https://rmarkdown.rstudio.com/flexdashboard/
 
+
+
+### Making your R files executables on windows, a how to guide:  
+http://www.r-datacollection.com/blog/making-r-files-executable/
+
+### Shortcuts in RStudio, a very nice guide:  
+https://appsilon.com/r-studio-shortcuts-and-tips/
+
+## Reporting  
+
+### ggstatsplot  
+Easily plot your data along with statistical information 
+https://github.com/IndrajeetPatil/ggstatsplot  
+
+### papaja:  
+Prepare your report with APA formatting:  
+https://github.com/crsh/papaja  
+
 MAra Averick
+Adam grauer
