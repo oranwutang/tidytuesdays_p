@@ -87,7 +87,7 @@ https://github.com/isubirana/compareGroups
 
 ### R Vocabulary
 A couple of things you should know when you are starting with R (from R-Bloggers):  
-https://www.r-bloggers.com/r-vocabulary-part-1/
+https://www.r-bloggers.com/r-vocabulary-part-1/  
 https://www.r-bloggers.com/r-vocabulary-part-2/
 
 ### A webinar about how to program with R (in spanish)
