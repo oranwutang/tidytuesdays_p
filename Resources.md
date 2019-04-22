@@ -7,11 +7,11 @@ Make plots that are ready for publishing in scientific journals:
 https://github.com/kassambara/ggpubr
 
 ### jskm
-Nice Kaplan-Meiwr plots (and analysis)  
+Nice Kaplan-Meier plots (and analysis)  
 https://cran.r-project.org/web/packages/jskm/index.html
 
 ### r2D3
-Make charts and graphics with D3 in R. Just go beyond ggplot!  
+Make charts and graphics with D3 in R. Going beyond ggplot!  
 https://rstudio.github.io/r2d3/index.html
 
 ### Haacker
