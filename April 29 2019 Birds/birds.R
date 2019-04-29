@@ -1,14 +1,14 @@
 library(tidyverse)
 library(magrittr)
-library(lubridate)
 
+#Get the data
 bird_collisions <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-04-30/bird_collisions.csv")
-
 mp_light <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-04-30/mp_light.csv")
 
-
+#Join datasets
 joined<-left_join(bird_collisions %>% filter(locality=="MP"), mp_light , by = "date")
 
+#Laniidae and Icteridae are exclude because low counts
 joined %>%
   filter(!is.na(light_score)&family!="Laniidae"&family!="Icteridae") %>% 
   group_by(family) %>% 
