@@ -45,6 +45,11 @@ https://colororacle.org/
 Learn about R, the tidyverse and RStudio, interactively!
 https://rstudio.cloud/learn/primers
 
+### A concise tutorial on data manipulation with dplyr:
+http://rpubs.com/acolumbus/ocrug-data-manipulation-with-tidy-tools  
+
+
+
 ## Data manipulation  
 
 ### Datapasta  
@@ -54,6 +59,14 @@ https://github.com/MilesMcBain/datapasta
 ### RegExplain  
 A great tool for work (and understand) regular expressions:  
 https://www.garrickadenbuie.com/project/regexplain/
+
+### Janitor
+A package for cleaning dataframes, the function tabyl() is very useful:  
+https://github.com/sfirke/janitor  
+
+## Data analysis
+A nice guide about logistic regression with R:  
+https://uc-r.github.io/logistic_regression
 
 ## Free datasets
 
@@ -83,6 +96,9 @@ https://github.com/eddelbuettel/tint
 The best tool for creating formatted tables in markdown, LaTex and html formats:    
 https://github.com/isubirana/compareGroups
 
+### Some practical tips for RMarkdown
+https://jozef.io/r909-rmarkdown-tips/
+
 ## Miscellaneous  
 
 ### R Vocabulary
@@ -92,6 +108,10 @@ https://www.r-bloggers.com/r-vocabulary-part-2/
 
 ### A webinar about how to program with R (in spanish)
 https://resources.rstudio.com/webinars/programacio-n-con-r-edgar-ruiz
+
+### Git, GitHub, R
+A step by step guide:  
+https://happygitwithr.com/index.html
 
 ### Tabulizer
 Extract tables from pdf files:  
