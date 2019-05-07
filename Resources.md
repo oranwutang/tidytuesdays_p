@@ -40,6 +40,10 @@ https://github.com/IndrajeetPatil/ggstatsplot
 Not an R package, a program for checking if your visualization if colorblind-friendly:  
 https://colororacle.org/
 
+### Illuminated contours
+Give an illusion of relief to your contours charts:  
+https://eliocamp.github.io/metR/reference/geom_contour_tanaka.html
+
 ## Learning/teaching resources
 ### RStudio primers    
 Learn about R, the tidyverse and RStudio, interactively!
@@ -99,7 +103,16 @@ https://github.com/isubirana/compareGroups
 ### Some practical tips for RMarkdown
 https://jozef.io/r909-rmarkdown-tips/
 
+### remedy
+An easy way to give formatting while you write rmarkdown reports:  
+https://thinkr-open.github.io/remedy/index.html
+
 ## Miscellaneous  
+
+### spanish
+R package for functions on spanish data:  
+https://ropenspain.github.io/spanish/
+
 
 ### R Vocabulary
 A couple of things you should know when you are starting with R (from R-Bloggers):  
@@ -145,5 +158,12 @@ http://www.r-datacollection.com/blog/making-r-files-executable/
 ### Shortcuts in RStudio, a very nice guide  
 https://appsilon.com/r-studio-shortcuts-and-tips/
 
+### generativeart  
+Create aRt, play with maths, images and R and have a lot of fun!:  
+https://github.com/cutterkom/generativeart
 
+## Coding style guides:  
 
+https://jef.works/R-style-guide/  
+https://style.tidyverse.org/  
+http://adv-r.had.co.nz/Style.html
