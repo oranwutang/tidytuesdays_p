@@ -2,6 +2,10 @@
 
 ## Visualizations and plots:
 
+### What kind of chart for my data???
+Although not made in R is a good place to start before plotting your data, choosing the type of chart you need, just take a look:  
+https://gramener.github.io/visual-vocabulary-vega/
+
 ###  ggpubr  
 Make plots that are ready for publishing in scientific journals:  
 https://github.com/kassambara/ggpubr
@@ -44,6 +48,10 @@ https://colororacle.org/
 Give an illusion of relief to your contours charts:  
 https://eliocamp.github.io/metR/reference/geom_contour_tanaka.html
 
+### Making 3d Scatterplots
+A how-to guide:  
+https://datascienceplus.com/how-to-make-3d-scatter-plots-with-r-scatterplot3d-package/
+
 ## Learning/teaching resources
 ### RStudio primers    
 Learn about R, the tidyverse and RStudio, interactively!
@@ -52,9 +60,16 @@ https://rstudio.cloud/learn/primers
 ### A concise tutorial on data manipulation with dplyr:
 http://rpubs.com/acolumbus/ocrug-data-manipulation-with-tidy-tools  
 
+### Represent data on a map
+A free course from census.gov:  
+https://www.census.gov/data/academy/courses/choroplethr.html
+
 
 
 ## Data manipulation  
+
+### Firstly, understand data structures in R!  
+https://www.datasciencecentral.com/profiles/blogs/understand-basic-to-advance-data-structure-used-in-r-to-use-it
 
 ### Datapasta  
 Copy and paste data to and from R without dying in the attempt. It is surely a must!
@@ -68,9 +83,17 @@ https://www.garrickadenbuie.com/project/regexplain/
 A package for cleaning dataframes, the function tabyl() is very useful:  
 https://github.com/sfirke/janitor  
 
+### Using googlesheets in R
+A very nice tutorial:  
+https://datascienceplus.com/how-to-use-googlesheets-to-connect-r-to-google-sheets/
+
+
+
 ## Data analysis
 A nice guide about logistic regression with R:  
 https://uc-r.github.io/logistic_regression
+
+
 
 ## Free datasets
 
@@ -108,6 +131,10 @@ An easy way to give formatting while you write rmarkdown reports:
 https://thinkr-open.github.io/remedy/index.html
 
 ## Miscellaneous  
+
+### pdftools
+Join and split pdf files in R:  
+https://ropensci.org/technotes/2019/04/24/pdftools-22/
 
 ### spanish
 R package for functions on spanish data:  
