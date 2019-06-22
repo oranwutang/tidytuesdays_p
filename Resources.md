@@ -2,6 +2,12 @@
 
 ## Visualizations and plots:
 
+### A free book:  
+https://socviz.co/index.html#preface
+
+### Another free book:  
+https://serialmentor.com/dataviz/
+
 ### What kind of chart for my data???
 Although not made in R is a good place to start before plotting your data, choosing the type of chart you need, just take a look:  
 https://gramener.github.io/visual-vocabulary-vega/
@@ -64,6 +70,10 @@ http://rpubs.com/acolumbus/ocrug-data-manipulation-with-tidy-tools
 A free course from census.gov:  
 https://www.census.gov/data/academy/courses/choroplethr.html
 
+### Journalism with R
+Althought centered on journalism, it is a nice collection of video-tutorials covering almost all you need to work with R.  
+https://learn.r-journalism.com/en/introduction/
+
 
 
 ## Data manipulation  
@@ -93,6 +103,17 @@ https://datascienceplus.com/how-to-use-googlesheets-to-connect-r-to-google-sheet
 A nice guide about logistic regression with R:  
 https://uc-r.github.io/logistic_regression
 
+How to perform a logistic regression:  
+https://www.r-bloggers.com/how-to-perform-ordinal-logistic-regression-in-r/
+
+A tutorial about modeling data the tidyway:  
+https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/
+
+Generalized additive models (GAMs):  
+https://noamross.github.io/gams-in-r-course/
+
+Modeldown, a package for creating html reports with your modelling results, 5 stars!!!  
+https://github.com/MI2DataLab/modelDown
 
 
 ## Free datasets
@@ -168,6 +189,13 @@ https://www.tsbox.help/
 ### tsfeatures  
 Extract features from time series data
 https://cran.r-project.org/web/packages/tsfeatures/vignettes/tsfeatures.html
+
+### tidyverts  
+A set of tools for working with time series:  
+https://tidyverts.org/ (example datasets in: http://tsibbledata.tidyverts.org/)
+
+### A nice introduction to mapping (spatial data):  
+https://statnmap.com/2018-07-14-introduction-to-mapping-with-sf-and-co/
 
 ### interactions
 Tools for analysis of interactions for regression models  
