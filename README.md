@@ -11,4 +11,10 @@ Here are some of my plots and the corresponding code used to make them:
 
 <img src="volcanoes.png" alt="alt text" width="200">
 
-Actualizado2
+<p>
+Volcanoes: <a href="https://www.w3schools.com">
+<img border="0" alt="W3Schools" src="volcanoes.png" width="100" >
+</a>
+</p>
+
+Actualizado3
