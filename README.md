@@ -1,6 +1,12 @@
 ## Welcome to my Tidytuesdays page.  
 
-Here are some of my plots and the corresponding code used to create them:
+[Tidytuesdays](https://github.com/rfordatascience/tidytuesday) is a project aimed to encourage people to use the [R](https://www.r-project.org/) programming language for data analysis and data visualization. It is maintained by [Thomas Mock](https://github.com/jthomasmock), each monday he publishes a dataset and participants analyse it and make somo visualizations with it. People with any level of coding skills are welcomed to participate and contribute publishing the plots they made (preferably with the code) on twitter with the [#TidyTuesday](https://twitter.com/search?q=%23TidyTuesday&src=typeahead_click)
+
+And who wins? What's the prize?
+Nobody! There's no prize besides, maybe, some likes or retweets for your posts!
+Seriously, the greatest reward for participating in tidytuesdays is the fun that you'll have making your data visualizations and watching the plots made by others, which frequently are great!
+
+Here are some of my contributions to the tidytuesdays and the corresponding code used to create them:
 
 -  [Volcanoes](https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.MD)
 
