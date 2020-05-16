@@ -1,6 +1,6 @@
 ## Welcome to my Tidytuesdays page.  
 
-Here are some of my plots and the corresponding code used to make them:
+Here are some of my plots and the corresponding code used to create them:
 
 -  [Volcanoes](https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.MD)
 
