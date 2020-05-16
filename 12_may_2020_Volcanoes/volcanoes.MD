@@ -1,4 +1,4 @@
-`
+```markdown
 library(tidyverse)
 library(drlib)
 library(ggtext)
@@ -48,5 +48,6 @@ eruptions %>%
        is a relative measure of the explosiveness of volcanic eruptions",
        caption = "plot by @oranwutan")+
   ggsave("volcanoes.png", height = 18, width = 15, dpi = 600)
-  `
+  ```
+  
   
