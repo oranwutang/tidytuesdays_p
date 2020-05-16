@@ -9,4 +9,4 @@ Here are some of my plots and the corresponding code used to make them:
 [1]:  https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.png
 [2]:  https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.R
 
-<img src="https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.png" alt="alt text" width="200">
+<img src="/volcanoes.png" alt="alt text" width="200">
