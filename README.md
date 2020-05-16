@@ -42,7 +42,7 @@ Here are some of my plots and the corresponding code used to make them:
 </a>
 </p>
 
--  [Student/Teacher Ratios by Countries]May 6 2019/Students_Teachers.R)
+-  [Student/Teacher Ratios by Countries](May 6 2019/Students_Teachers.R)
 
 <p>
 <a href="May 6 2019/Students_Teachers.R">
