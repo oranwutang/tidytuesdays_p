@@ -10,3 +10,5 @@ Here are some of my plots and the corresponding code used to make them:
 [2]:  https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.R
 
 <img src="/volcanoes.png" alt="alt text" width="200">
+
+Actualizado
