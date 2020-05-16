@@ -1,5 +1,9 @@
 Here is the plot and the code used to make it in R
 
+https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.png
+
+![Alt text](https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.png)
+
 ```{r}
 library(tidyverse)
 library(drlib)
