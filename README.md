@@ -6,7 +6,7 @@ Here are some of my plots and the corresponding code used to make them:
 
 [![homepage][1|width=100]][2]
 
-[1]:  https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.png
+[1]:  https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.png | width=100
 [2]:  https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.R
 
 
