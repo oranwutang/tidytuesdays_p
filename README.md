@@ -57,3 +57,17 @@ Here are some of my plots and the corresponding code used to create them:
 <img border="0" alt="Parking violations" src="Parking/ParkingViolations.png" width="300" >
 </a>
 </p>
+
+-  [Dogs adoptions](https://github.com/oranwutang/tidytuesdays_p/blob/master/dogsAdoptions/Dogs_16_12_2019.R)
+
+<p>
+<a href="https://github.com/oranwutang/tidytuesdays_p/blob/master/dogsAdoptions/Dogs_16_12_2019.R">
+<img border="0" alt="Dogs adoptions" src="dogsAdoptions/wherearedogs.png" width="300" >
+</a>
+</p>
+
+<p>
+<a href="https://github.com/oranwutang/tidytuesdays_p/blob/master/dogsAdoptions/Dogs_16_12_2019.R">
+<img border="0" alt="Dogs adoptions" src="dogsAdoptions/netgain.png" width="300" >
+</a>
+</p>
