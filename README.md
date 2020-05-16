@@ -6,7 +6,7 @@ Here are some of my plots and the corresponding code used to make them:
 
 <p>
 <a href="https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.MD">
-<img border="0" alt="Volcanoes" src="volcanoes.png" width="100" >
+<img border="0" alt="Volcanoes" src="volcanoes.png" width="300" >
 </a>
 </p>
 
@@ -14,9 +14,9 @@ Here are some of my plots and the corresponding code used to make them:
 
 <p>
 <a href="https://github.com/oranwutang/tidytuesdays_p/tree/master/14-5-2019">
-<img border="0" alt="Nobel Prizes" src="NobelJournals.png" width="100" >
+<img border="0" alt="Nobel Prizes" src="NobelJournals.png" width="300" >
 </a>
 </p>
 
 Actualizado3
-NobelJournals.png
+
