@@ -77,3 +77,12 @@ Here are some of my contributions to the tidytuesdays and the corresponding code
 <img border="0" alt="Dogs adoptions" src="dogsAdoptions/netgain.png" width="300" >
 </a>
 </p>
+
+
+-  [Bicycles](https://github.com/oranwutang/tidytuesdays_p/blob/master/Apr-02-2019/bycicles.R)
+
+<p>
+<a href="https://github.com/oranwutang/tidytuesdays_p/blob/master/Apr-02-2019/bycicles.R">
+<img border="0" alt="Dogs adoptions" src="Apr-02-2019/Bicycles.png" width="300" >
+</a>
+</p>
