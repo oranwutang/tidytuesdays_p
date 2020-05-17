@@ -24,7 +24,7 @@ Here are some of my contributions to the tidytuesdays and the corresponding code
 </a>
 </p>
 
--  [Women in Research](https://github.com/oranwutang/tidytuesdays_p/blob/master/16-4-19/16-4-19%20banderas.R)
+-  [Women in Research](16-4-19/README.md)
 
 <p>
 <a href="https://github.com/oranwutang/tidytuesdays_p/blob/master/16-4-19/16-4-19%20banderas.R">
