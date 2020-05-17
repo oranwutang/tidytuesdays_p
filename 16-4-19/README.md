@@ -1,3 +1,7 @@
+## Women in Research
+
+![Women in Research](Flags.png)
+
 ```{r}
 library(tidyverse)
 library(magrittr)
