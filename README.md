@@ -16,7 +16,7 @@ Here are some of my contributions to the tidytuesdays and the corresponding code
 </a>
 </p>
 
--  [Nobel Prizes](https://github.com/oranwutang/tidytuesdays_p/tree/master/14-5-2019)
+-  [Nobel Prizes](14-5-2019/README.md)
 
 <p>
 <a href="https://github.com/oranwutang/tidytuesdays_p/tree/master/14-5-2019">
