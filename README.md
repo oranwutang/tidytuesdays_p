@@ -8,7 +8,7 @@ Seriously, the greatest reward for participating in tidytuesdays is the fun that
 
 Here are some of my contributions to the tidytuesdays and the corresponding code used to create them:
 
--  [Volcanoes](https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.MD)
+-  [Volcanoes](12_may_2020_Volcanoes/README.md)
 
 <p>
 <a href="https://github.com/oranwutang/tidytuesdays_p/blob/master/12_may_2020_Volcanoes/volcanoes.MD">
