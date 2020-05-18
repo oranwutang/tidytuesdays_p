@@ -1,3 +1,6 @@
+![FIVB.png]
+
+```{r}
 # remotes::install_github("rensa/ggflags") 
 
 library(tidyverse)
@@ -88,3 +91,4 @@ p1_2 <- p1/p2 + plot_annotation(title = 'International Volleyball Federation\nTo
                             family="Russo One"))
 
 ggsave(filename = "Volleyball_2020_05_18/FIVB.png", p1_2, dpi = 600, width = 4.35, height = 8.51)
+```
