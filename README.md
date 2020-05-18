@@ -11,7 +11,7 @@ Here are some of my contributions to the tidytuesdays and the corresponding code
 -  [Volleyball](Volleyball_2020_05_18/readme.MD)
 
 <p>
-<a href="Volleyball_2020_05_18/readme.MD">
+<a href="FIVB.png">
 <img border="0" alt="Volcanoes" src="FIVB.png" width="300" >
 </a>
 </p>
