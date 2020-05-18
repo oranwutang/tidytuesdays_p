@@ -8,7 +8,7 @@ Seriously, the greatest reward for participating in tidytuesdays is the fun that
 
 Here are some of my contributions to the tidytuesdays and the corresponding code used to create them:
 
--  [Volleyball](Volleyball_2020_05_18/readme.MD)
+-  [Volleyball](Volleyball_2020_05_18/README.md)
 
 <p>
 <a href="Volleyball_2020_05_18/readme.MD">
