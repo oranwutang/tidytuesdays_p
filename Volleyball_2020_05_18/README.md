@@ -1,5 +1,4 @@
-![FIVB.png]
-
+![Volleyball](FIVB.png)
 ```{r}
 # remotes::install_github("rensa/ggflags") 
 
