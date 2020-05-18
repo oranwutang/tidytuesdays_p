@@ -12,7 +12,7 @@ Here are some of my contributions to the tidytuesdays and the corresponding code
 
 <p>
 <a href="FIVB.png">
-<img border="0" alt="Volcanoes" src="FIVB.png" width="300" >
+<img border="0" alt="Volleyball" src="Volleyball_2020_05_18/FIVB.png" width="300" >
 </a>
 </p>
 
