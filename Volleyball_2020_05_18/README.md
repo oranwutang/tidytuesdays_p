@@ -1,6 +1,7 @@
 ## Volleyball
 
-![Volleyball](FIVB.png)
+![Volleyball](FIVB.png)  
+
 ```{r}
 # remotes::install_github("rensa/ggflags") 
 
@@ -53,7 +54,7 @@ p1 <- winners %>% ggplot(aes(x=as.factor(year), y=n.x, country=Country))+
         panel.grid.major.y = element_line(linetype = "longdash", color = "gray50"),
         plot.title.position = "plot")+
   labs(title = "Where are the best volleyball players from?",
-       subtitle = "Sum of matchs won by country",
+       subtitle = "Sum of matches won by country",
        y="", x="")
   
 
@@ -64,8 +65,8 @@ p2 <- winners %>%
   ggplot(aes(x=Total, y=reorder(Country, Total), country=Country))+
   geom_col(width = 0.3, fill="orange", alpha=0.4)+
   geom_flag(size=6)+
-  labs(title = "Total matchs won by country",
-       subtitle = "Sum of matchs won by country 2009-19",
+  labs(title = "Total matches won by country",
+       subtitle = "Sum of matches won by country 2009-19",
        y="", x="")+
   theme_minimal()+
   theme(text = element_text(color = "cornflowerblue",
