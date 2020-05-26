@@ -12,7 +12,7 @@ Here are some of my contributions to the tidytuesdays and the corresponding code
  
 <p>
 <a href="https://https://github.com/oranwutang/tidytuesdays_p/tree/master/2020_5_25_cocktails">
-<img border="0" alt="Volleyball" src="2020_5_25_cocktails/cocktails.png.png" width="300" >
+<img border="0" alt="Cocktails" src="2020_5_25_cocktails/cocktails.png" width="300" >
 </a>
 </p>
 
