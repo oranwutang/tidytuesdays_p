@@ -8,6 +8,14 @@ Seriously, the greatest reward for participating in tidytuesdays is the fun that
 
 Here are some of my contributions to the tidytuesdays and the corresponding code used to create them:
 
+-  [Cocktails](2020_5_25_cocktails/README.md)
+ 
+<p>
+<a href="https://https://github.com/oranwutang/tidytuesdays_p/tree/master/2020_5_25_cocktails">
+<img border="0" alt="Volleyball" src="2020_5_25_cocktails/cocktails.png.png" width="300" >
+</a>
+</p>
+
 -  [Volleyball](Volleyball_2020_05_18/README.md)
 
 <p>
