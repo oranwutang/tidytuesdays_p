@@ -12,7 +12,7 @@ Here are some of my contributions to the tidytuesdays and the corresponding code
  
 <p>
 <a href="https://github.com/oranwutang/tidytuesdays_p/tree/master/X-Men_29_jun_2020">
-<img border="0" alt="Cocktails" src="X-Men_29_jun_2020/README.md" width="300" >
+<img border="0" alt="Cocktails" src="X-Men_29_jun_2020/x-men.png" width="300" >
 </a>
 </p>
 
