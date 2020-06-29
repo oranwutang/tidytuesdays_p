@@ -8,6 +8,14 @@ Seriously, the greatest reward for participating in tidytuesdays is the fun that
 
 Here are some of my contributions to the tidytuesdays and the corresponding code used to create them:
 
+-  [x-men](X-Men_29_jun_2020/README.md)
+ 
+<p>
+<a href="https://github.com/oranwutang/tidytuesdays_p/tree/master/X-Men_29_jun_2020">
+<img border="0" alt="Cocktails" src="X-Men_29_jun_2020/README.md" width="300" >
+</a>
+</p>
+
 -  [Cocktails](2020_5_25_cocktails/README.md)
  
 <p>
